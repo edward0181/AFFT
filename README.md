@@ -56,7 +56,7 @@ pkg update ; pkg install git
 
 - After install packages copy this command to clone the tool and run it
 ```sh
-git clone https://github.com/mrx7014/AFFT ; cd AFFT ; chmod +x AFFT.sh ; ./AFFT.sh
+git clone https://github.com/edward0181/AFFT ; cd AFFT ; chmod +x AFFT.sh ; ./AFFT.sh
 ```
 
 <br>
@@ -75,3 +75,6 @@ git clone https://github.com/mrx7014/AFFT ; cd AFFT ; chmod +x AFFT.sh ; ./AFFT.
 <br>
 
 <a href="https://t.me/A235channel">**A23 Telegram Channel**</a>
+
+<br>
+<a href="https://github.com/mrx7014/">***MRX7014 for his work on A23***</a>
